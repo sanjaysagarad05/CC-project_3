@@ -1,5 +1,5 @@
 module.exports = {
-  HOST: "mygurudb.cray40le0qqz.us-east-1.rds.amazonaws.com",
+  HOST: "test2.cray40le0qqz.us-east-1.rds.amazonaws.com",
   USER: "root",
   PASSWORD: "98765432",
   DB: "mygurudb",

@@ -9,7 +9,7 @@ const app = express();
 app.use(express.static(path));
 
 var corsOptions = {
-  origin: " http://ec2-52-6-45-41.compute-1.amazonaws.com/#/ "
+  origin: " http://ec2-52-6-45-41.compute-1.amazonaws.com/ "
 };
 
 app.use(cors(corsOptions));
